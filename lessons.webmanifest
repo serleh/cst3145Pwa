@@ -1,0 +1,17 @@
+{
+    "name":"My pet store",
+    "short_name":"salehs petstore",
+    "description":"My online petstore",
+    "icons":[{
+        "src":"images/imagespwa.png",
+        "size":"512*512",
+        "type":"image/png"
+    }
+    ],
+    "start_url":"work.html",
+    "display":"fullscreen",
+    "background_color":"#B12A34"
+
+
+
+}
